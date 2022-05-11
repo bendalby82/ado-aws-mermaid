@@ -1,2 +1,4 @@
-# ado-aws-mermaid
-An AWS architecture diagram in Azure DevOps-friendly Mermaid
+# Azure DevOps - Drawing AWS Diagrams with Mermaid
+## Overview
+Ever wondered what this button does in Azure DevOps?
+
